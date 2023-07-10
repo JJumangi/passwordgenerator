@@ -7,10 +7,10 @@ For this assignment:
 * This should all be completed after the user clicks the "generate" button and follows the prompts.
 
 ## **Screenshot from a Working Page of the Website**
-![Website Screenshot](./assests/images/screenshot.png)
+[Website Screenshot](./assets/images/screenshot.png)
 
 
-## [**Link to Working Version**](https://jjumangi.github.io/css-portfolio/)
+## [**Link to Working Version**]()
 
 Thank you for looking at my project!
 -Jon
